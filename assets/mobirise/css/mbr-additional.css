@@ -924,6 +924,9 @@ a {
     font-size: 21vw;
   }
 }
+.cid-sqjiws0CZ5 .item .icon-box .step-number {
+  color: #ffe161;
+}
 .cid-sqjiAqdgGt {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -979,7 +982,7 @@ a {
   z-index: 1;
 }
 .cid-sqjsRG1zOF .num {
-  color: #6592e6;
+  color: #ffe161;
 }
 @media (max-width: 767px) {
   .cid-sqjsRG1zOF * {
@@ -1102,7 +1105,7 @@ a {
 .cid-sqjthVmjKS {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #40b0bf;
+  background-color: #47b5ed;
 }
 .cid-sqjthVmjKS .card {
   border-radius: 0;
@@ -1566,6 +1569,8 @@ a {
   width: 100%;
 }
 .cid-sqMety4EUR {
+  padding-top: 5rem;
+  padding-bottom: 4rem;
   background-image: url("../../../assets/images/31777-itokd7hquy82-800x450.jpg");
 }
 .cid-sqMfd0WYkx {
@@ -1579,7 +1584,7 @@ a {
   margin-bottom: 2rem;
 }
 .cid-sqMfd0WYkx .icon-box {
-  background: #6592e6;
+  background: #ffe161;
   width: 60px;
   min-width: 60px;
   height: 60px;
@@ -1591,7 +1596,7 @@ a {
 }
 .cid-sqMfd0WYkx .mbr-iconfont {
   font-size: 2rem;
-  color: #ffffff;
+  color: #614f00;
 }
 @media (max-width: 991px) {
   .cid-sqMfd0WYkx .card {
@@ -1604,12 +1609,12 @@ a {
 .cid-sqMfjf0HaT {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ffffff;
+  background-color: #ffe161;
 }
 .cid-sqOq6xIlxJ {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-color: #ffe161;
 }
 .cid-sqOq6xIlxJ .content-wrapper {
   background: #fafafa;
@@ -1655,7 +1660,7 @@ a {
   margin-bottom: 2rem;
 }
 .cid-sqOqaIZklH .icon-box {
-  background: #6592e6;
+  background: #ffe161;
   width: 60px;
   min-width: 60px;
   height: 60px;
@@ -1667,7 +1672,7 @@ a {
 }
 .cid-sqOqaIZklH .mbr-iconfont {
   font-size: 2rem;
-  color: #ffffff;
+  color: #614f00;
 }
 @media (max-width: 991px) {
   .cid-sqOqaIZklH .card {
@@ -1704,8 +1709,8 @@ a {
   }
 }
 .cid-sqMfgA4BIP {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 3rem;
+  padding-bottom: 4rem;
   background-image: url("../../../assets/images/solar-7-1920x1080.jpg");
 }
 .cid-sqMfgA4BIP .mbr-section-title {
@@ -3044,8 +3049,8 @@ a {
   display: flex;
   border-radius: 50%;
   text-align: center;
-  color: #6592e6;
-  border: 2px solid #6592e6;
+  color: #ffe161;
+  border: 2px solid #ffe161;
   justify-content: center;
   align-content: center;
   transition: all 0.3s;
@@ -3054,8 +3059,8 @@ a {
   padding: 0.6rem;
 }
 .cid-sqNhyCz1kf .mbr-iconfont-social:hover {
-  background-color: #6592e6;
-  color: #ffffff;
+  background-color: #ffe161;
+  color: #000000;
 }
 @media (max-width: 768px) {
   .cid-sqNhyCz1kf .icons {
